@@ -1,4 +1,4 @@
-![Web Developer]([https://pbs.twimg.com/profile_banners/159107622/1448918532/600x200](https://media.licdn.com/dms/image/v2/D5616AQG3VNxxSwmJcg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731134535655?e=1736380800&v=beta&t=Rr1hABeTclCsj_z1jdAoPyyQSl6EFEvfkLGpb46qppY))
+![Web Developer](https://pbs.twimg.com/profile_banners/159107622/1448918532/600x200)
 ### Hi there 👋, my name is Fazlul Kader
 #### 😊 Web Developer
 
