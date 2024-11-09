@@ -1,6 +1,7 @@
-### Hi there 👋, Md Fazlul Kader
-#### Web Developer
 ![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQG3VNxxSwmJcg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731134535655?e=1736380800&v=beta&t=Rr1hABeTclCsj_z1jdAoPyyQSl6EFEvfkLGpb46qppY)
+## Hi there 👋, Md Fazlul Kader
+### Web Developer
+
 
 I am a full-time freelancer web-designer web-developer who specializes in creating dynamic and beautiful web pages. I have been in the field for nearly 8 years, and have been loving every minute of it. I am a WordPress theme creater, Customizer, entrepreneur, designer, developer, and overall thinker.Work with Various WP-theme, Templates, mail-template, Sliders. Bootstrap3, HTML5, CSS3, jQuery, woo-commerce, woo-commerce Extra product plugin, WPML Plugin, Revolution slider, Layer slider, Redux framework, Jet-pack, Advance Custom Field, Meta-box, Short-code, Membership plugin, Contact Form-7, gravity Form, Social Plugins, Avada theme, BeTheme, Divi Theme etc. WordPress site hosting backup to any server. I can speak over skype (English) to get the project information clearly. After completion, I will provide you video instruction how to Edit all section of the site by you.
 
